@@ -10,3 +10,4 @@ openpyxl
 werkzeug
 zipfile36 
 xhtml2pdf
+gunicorn
