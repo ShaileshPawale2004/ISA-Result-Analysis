@@ -1,0 +1,12 @@
+flask
+numpy
+pandas
+matplotlib
+seaborn
+torch
+transformers
+tabulate
+openpyxl
+werkzeug
+zipfile36 
+xhtml2pdf

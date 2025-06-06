@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore generated Flask upload/output folders
+static/uploads/
+static/outputs/
+
+# Never track the 4 GB TinyLlama model folder
+models/tinyllama/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
