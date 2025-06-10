@@ -2,6 +2,8 @@ ISA Result Analysis
 
 This repository contains a Flask application and analysis pipeline for processing ISA (In-Semester Assessment) score CSVs and a question-paper TXT to generate detailed analytics, visualizations, and AI-driven teaching insights via TinyLlama. The actual 4 GB TinyLlama weights are not included in this repository; see instructions below to download and place them locally.
 
+PPT: https://docs.google.com/presentation/d/1doyihSiRKpnsu_P5z5kKuOToS3M9friI/edit?usp=drive_link&ouid=110483044580318446821&rtpof=true&sd=true
+
 ────────────────────────────────────────────────────────────
 CONTENTS
 ────────────────────────────────────────────────────────────
